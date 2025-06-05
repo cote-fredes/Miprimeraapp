@@ -1,0 +1,7 @@
+{
+  "name": "MentalSpaceApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
